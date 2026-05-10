@@ -2,7 +2,7 @@
 
 > A World of Warcraft character dashboard built as a full-stack project — aggregating live data from Blizzard's API and raider.io into a single, fast profile view.
 
-**By Lucas da Silva Santos — Full Stack Developer | Co-founder at [Repetz](https://repetz.com.br)**
+**By Lucas da Silva Santos — Full Stack Developer 
 
 ---
 
