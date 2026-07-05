@@ -2,7 +2,7 @@
 
 > A World of Warcraft character dashboard built as a full-stack project — aggregating live data from Blizzard's API and raider.io into a single, fast profile view.
 
-**By Lucas da Silva Santos — Full Stack Developer 
+**By Lucas da Silva Santos — Full Stack Developer**
 
 ---
 
@@ -12,7 +12,7 @@ MythicPanel aggregates all of it into a single dashboard: Mythic+ rating with hi
 
 The project was also a deliberate exercise in building a clean split-stack architecture: a Spring Boot backend as the single source of truth for all external API communication, and a Next.js frontend that never touches Blizzard or raider.io directly.
 
-> 🔒 The source repository is private. This README documents the architecture, stack, and technical decisions behind the project.
+> 📂 Source code: [rmb34/wowMythicPanel](https://github.com/rmb34/wowMythicPanel). This README documents the architecture, stack, and technical decisions behind the project.
 
 ---
 
@@ -78,7 +78,7 @@ On the frontend, pages are Server Components by default. Client Components are u
 - Blizzard OAuth2 client credentials flow
 
 **Frontend**
-- Next.js 14 (App Router)
+- Next.js 16 (App Router)
 - TypeScript
 - Tailwind CSS + shadcn/ui
 - OKLCH color system for faction theming
@@ -139,4 +139,4 @@ The snapshot system stores history per character but doesn't yet expose a useful
 
 ---
 
-*Built with Java 21 · Spring Boot 3 · Next.js 14 · PostgreSQL · Blizzard API · raider.io API*
+*Built with Java 21 · Spring Boot 3 · Next.js 16 · PostgreSQL · Blizzard API · raider.io API*
