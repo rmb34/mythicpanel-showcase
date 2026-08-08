@@ -4,7 +4,7 @@ Full-stack World of Warcraft character dashboard that combines profile, Mythic+,
 
 I built the project as a split-stack application: a Java and Spring Boot API owns every external integration, while a Next.js frontend focuses on server-rendered presentation and interaction.
 
-[Source code](https://github.com/rmb34/wowMythicPanel) · [LinkedIn](https://linkedin.com/in/lucas-da-silva-santos-a46879285)
+[LinkedIn](https://linkedin.com/in/lucas-da-silva-santos-a46879285)
 
 > MythicPanel is an independent project and is not affiliated with or endorsed by Blizzard Entertainment or Raider.IO.
 
